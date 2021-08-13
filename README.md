@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kanishk69378270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanishk69378270" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/kanishk-singh-12613521a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/kanishk-singh-12613521a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kanishk-singh-12613521a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanishk-singh-12613521a" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/kanishk singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kanishk singh" height="30" width="40" /></a>
 <a href="https://kaggle.com/kanishksingh49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kanishksingh49" height="30" width="40" /></a>
 <a href="https://instagram.com/kanishk7510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kanishk7510" height="30" width="40" /></a>
